@@ -30,7 +30,7 @@ body {
 /*header content*/
 .item1 {
 grid-area: header;
-background-image: url('/2_tomato_forest/img/1500tom.jpg');
+background-image: url('/tomatoforest/img/1500tom.jpg');
 background-size: 100%;
 background-position: center;
 height: 85vh;
